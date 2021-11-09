@@ -1,0 +1,36 @@
+#produtos,#sobre,#fale{
+    min-height: 100vh;
+    padding: 4em;
+}
+
+#produtos{
+    background-color: bisque;
+    color: brown;
+}
+
+#sobre{
+    background-color: cadetblue;
+    color: bisque;
+}
+
+#fale{
+    background-color: brown;
+    color: white;
+}
+
+nav{
+    position:fixed;
+    margin-top: 0px;
+    width: 100%;
+    z-index: 10000;
+}
+
+#produtos img{
+      max-height: 350px;
+
+}
+
+.card h5{
+     text-align: center;
+
+}
